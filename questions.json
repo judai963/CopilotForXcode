@@ -1,0 +1,36 @@
+
+{
+  "questions": [
+    {
+      "id": 1,
+      "domain": "Perform Ultrasound Examinations",
+      "question": "Which of the following is the primary reason to use a warm gel during an abdominal ultrasound?",
+      "options": [
+        "Enhance acoustic impedance mismatch",
+        "Improve patient comfort and reduce motion",
+        "Increase frequency penetration",
+        "Reduce lateral resolution"
+      ],
+      "answer": "Improve patient comfort and reduce motion",
+      "explanation": "Warm gel helps relax the patient, reducing involuntary motion that could degrade image quality.",
+      "reference": "ARDMS SPI Content Outline — Patient Care; AIUM Practice Parameter for Ultrasound Examinations",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "domain": "Perform Ultrasound Examinations",
+      "question": "When obtaining a longitudinal view of the liver, which anatomic landmark helps confirm proper scan orientation?",
+      "options": [
+        "Gallbladder",
+        "Portal vein",
+        "Falciform ligament",
+        "Hepatic artery"
+      ],
+      "answer": "Falciform ligament",
+      "explanation": "The falciform ligament is a reliable midline landmark in longitudinal liver scans.",
+      "reference": "AIUM Abdominal Ultrasound Guidelines",
+      "difficulty": "easy"
+    }
+  ]
+}
+    
